@@ -15,7 +15,7 @@ E-mail: swapnil.wagle[at]mpikg[dot]mpg[dot]de
 
 # Reading Materials
 
-For getting an idea about the MD simulations and neural networks, please refer to the following links:
+For getting an idea about the MD simulations, neural networks and PyTorch, please refer to the following links:
 
 MD simulations <br/>
 Wikipedia read: https://en.wikipedia.org/wiki/Molecular_dynamics <br/>
